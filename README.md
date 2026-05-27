@@ -60,6 +60,9 @@ A production-ready learning platform fully containerized with Docker. Features a
 ---
 
 ### 🕳️ [Pothole Detector System](https://github.com/Snehadey-2202/Pothole_Detector_System)
+
+🔗 [Live Demo](https://pothole-detector-vajb.onrender.com)
+
 > A smart detection system leveraging JavaScript
 
 An intelligent system for identifying potholes, combining real-world utility with modern web technologies.
